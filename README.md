@@ -1,7 +1,7 @@
 # IceKitty ![IceKitty](https://github.com/kittymagician/IceKitty/blob/master/img/icekitty.png)
 Digital Artefact Extractor for TeamSpeak3
 
-Developed as part of my B.Sc. (Hons) Dissertation entitled "Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients"
+Developed as part of my B.Sc. (Hons.) Dissertation entitled "Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients"
 
 In citing the use of this tool in any future publications please use the correct citiation "Bryant, O. (2018). Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients."
 
@@ -9,8 +9,8 @@ This script can be used to automate the extraction of localizsed data from the T
 
 
 ## The Findings
-During the dissertation study a file called "settings.db" was discovered in the AppData/TS3Client folder, this database included how many times files had been uploaded and downloaded using the client.
-The second file found in the same folder called "urls.db" contains a list of URLs clicked on by the client.
+During the dissertation study a file called "settings.db" was discovered in the AppData\Roaming\TS3Client folder, this database included how many times files had been uploaded and downloaded using the client.
+The second file found in the same folder called "urls.db" contains a list of URLs clicked on by the client, This information could be very useful for Digital Forensic Analysts conducting cases on Gaming Communication Clients.
 
 
 
@@ -53,4 +53,4 @@ I wish to thank the following people and organisations who helped me during my D
 - Dr. Ian Kennedy
 - Canterbury Christ Church University, School of Law, Criminal Justice and Computing
 - AyDesign
-- Thanks also goes out to Discord LLC and TeamSpeak GmBH for providing me the original goahead for the development of these tools.
+- Thanks also goes out to Discord LLC and TeamSpeak GmBH for providing me permission to conduct my Dissertation on Gaming Communication Clients.

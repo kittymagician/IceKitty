@@ -26,7 +26,7 @@ In order to extract the user settings/urls databases you must have a copy of the
 Once you have a copy of the file on your local machine you can run this example command.
 python3 icekitty.py -u urls.db -o urls.csv
 
-This will generate a CSV of the data found in the urls.csv database.
+This will generate a CSV of the data found in the urls.db database.
 
 In order to do the same with the settings.db simply switch the arguments from -u to -s, for example
 

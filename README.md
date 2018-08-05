@@ -1,4 +1,4 @@
-# IceKitty
+# IceKitty ![IceKitty](https://github.com/kittymagician/IceKitty/blob/master/img/icekitty.png)
 Digital Artefact Extractor for TeamSpeak3
 
 Developed as part of my B.Sc. (Hons) Dissertation entitled "Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients"
@@ -39,9 +39,11 @@ To view all the flags available run the -h command.
 This tool is for RESEARCH PURPOSES ONLY! Use with caution. 
 
 
-
 ## Licence
 This tool is licenced under MIT License.
+
+## Artwork
+The "IceKitty" branding is copyright of © Kitty Magician 2018.
 
 ## With Thanks
 I wish to thank the following people and organisations who helped me during my Dissertation.
@@ -50,4 +52,5 @@ I wish to thank the following people and organisations who helped me during my D
 - Mr. Danny Webb
 - Dr. Ian Kennedy
 - Canterbury Christ Church University, School of Law, Criminal Justice and Computing
+- AyDesign
 - Thanks also goes out to Discord LLC and TeamSpeak GmBH for providing me the original goahead for the development of these tools.

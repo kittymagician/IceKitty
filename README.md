@@ -36,7 +36,7 @@ To view all the flags available run the -h command.
 
 
 ## Disclosure
-This tool is for RESEARCH PURPOSES ONLY! Use with caution. 
+This tool is for RESEARCH PURPOSES ONLY! I am not responsible for any damages of misuse of this tool. Please use with caution. 
 
 
 ## Licence

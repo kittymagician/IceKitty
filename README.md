@@ -44,7 +44,7 @@ This tool is for RESEARCH PURPOSES ONLY! Use with caution.
 This tool is licenced under MIT License.
 
 ## With Thanks
-I wish to thank the following people who helped me during my Dissertation.
+I wish to thank the following people and organisations who helped me during my Dissertation.
 - Giri, Chris, Nicki, Peter, Dan, Peter, Clare and Sophie
 - Ms. Georgina Humphries
 - Mr. Danny Webb

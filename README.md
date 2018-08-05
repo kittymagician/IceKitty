@@ -9,7 +9,7 @@ This script can be used to automate the extraction of localizsed data from the T
 
 
 ## The Findings
-During the dissertation study a file called "settings.db" was discovered in the AppData\Roaming\TS3Client folder, this database included how many times files had been uploaded and downloaded using the client.
+During the dissertation study a file called "settings.db" was discovered in the ```AppData\Roaming\TS3Client folder```, this database included how many times files had been uploaded and downloaded using the client.
 The second file found in the same folder called "urls.db" contains a list of URLs clicked on by the client, This information could be very useful for Digital Forensic Analysts conducting cases on Gaming Communication Clients.
 
 

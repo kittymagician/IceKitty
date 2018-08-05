@@ -18,19 +18,24 @@ The second file found in the same folder called "urls.db" contains a list of URL
 This script has been run and tested with Python3 only, If you do not have a copy of Python3 on your machine please visit python.org and download a fresh copy.
 In addition the script also requires the third party python package "Another Python SQLite wrapper" also known as "apsw". 
 
-Simply run "pip install apsw" to get this package.
+Simply run '''"pip install apsw"''' to get this package.
 
 ## User Guide
 In order to extract the user settings/urls databases you must have a copy of the settings.db and urls.db file. These can be found at the following folder directory "C:\Users\USERNAME\AppData\Roaming\TS3Client".
 
 Once you have a copy of the file on your local machine you can run this example command.
+
+'''
 python3 icekitty.py -u urls.db -o urls.csv
+'''
 
 This will generate a CSV of the data found in the urls.db database.
 
 In order to do the same with the settings.db simply switch the arguments from -u to -s, for example
 
+'''
 python3 icekitty.py -s settings.db -o settings.csv
+'''
 
 To view all the flags available run the -h command.
 

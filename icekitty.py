@@ -60,7 +60,7 @@ def executesqlsettings():
         except:
             print('\x1b[1;31m'+'ERROR! Unable to open' + args.output + 'are you specifying the correct path?' + '\x1b[0m')
             print('\x1b[1;31m'+'Be sure to specify the ABSOLUTE path. You can use PWD on linux to find the Absolute Path' + '\x1b[0m')
-            print('\x1b[1;31m'+'Here\'s an example of a pathway searchcli.py -f file.localstorage -o /home/ubuntu/workspace/test/file.csv'+ '\x1b[0m')
+            print('\x1b[1;31m'+'Here\'s an example of a pathway icekitty.py -f file.localstorage -o /home/ubuntu/workspace/test/file.csv'+ '\x1b[0m')
             print('Press ENTER to terminate the application.')
             input()
             exit()
@@ -111,12 +111,12 @@ def executesqlurls():
         except:
             print('\x1b[1;31m'+'ERROR! Unable to open' + args.output + 'are you specifying the correct path?' + '\x1b[0m')
             print('\x1b[1;31m'+'Be sure to specify the ABSOLUTE path. You can use PWD on linux to find the Absolute Path' + '\x1b[0m')
-            print('\x1b[1;31m'+'Here\'s an example of a pathway searchcli.py -f file.localstorage -o /home/ubuntu/workspace/test/file.csv'+ '\x1b[0m')
+            print('\x1b[1;31m'+'Here\'s an example of a pathway icekitty.py -f file.localstorage -o /home/ubuntu/workspace/test/file.csv'+ '\x1b[0m')
             print('Press ENTER to terminate the application.')
             input()
             exit()
     except:
-        print('\x1b[1;31m'+'ERROR! Unable to open SQL file '+ args.urls +'are you specifying the correct http_discordapp.com_0.localstorage file?' + '\x1b[0m')
+        print('\x1b[1;31m'+'ERROR! Unable to open SQL file '+ args.urls +'are you specifying the correct urls/settings.db file?' + '\x1b[0m')
         print('Press ENTER to terminate the application.')
         input()
         exit()
